@@ -1,0 +1,4 @@
+https://colab.research.google.com/drive/1YSGnPL3CcGCvIEgX_k1F8X_-w3D45sjv?usp=sharing
+https://radimrehurek.com/gensim/models/word2vec.html
+https://github.com/AI-Trends/NLP-Tutorial/blob/master/Twitter_Sentiment_Analysis.ipynb
+https://www.tensorflow.org/tutorials/text/word2vec
